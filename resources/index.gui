@@ -1,0 +1,8 @@
+<svg viewport-fill="black">
+  <image x="0" y="0" width="300" height="300" href="back.png" />
+  <g id="gr" transform="translate(25,25)">
+
+    <image x="-25" y="-25" width="50" height="50" href="wheel.png" />
+
+  </g>
+</svg>
